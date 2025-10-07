@@ -1,0 +1,4 @@
+RoomNo,CustId,CustName,Mobile,Email,SuitType,CPD,PayType,BookDate,CheckOutDate,CheckINTime,CheckOutTime,Days,Total,Status
+12,T027,Harshbir Singh,9865423156,harshbir@gmail.com,Deluxe,6500,Card,27-May-25,3-Jun-25,09:25:43 AM,11:46:49 AM,7,45500,CheckOut
+25,E918,Ajay,8967542301,jay@outsee.com,Standard,4500,UPI,27-May-25,27-May-25,07:11:43 PM,07:13:07 PM,1,4500,CheckOut
+44,A406,fgfdg,545353453,gfdgdg,economy,4500,Cash,28-May-25,7-Oct-25,11:29:45 AM,12:29:28 PM,132,594000,CheckOut
